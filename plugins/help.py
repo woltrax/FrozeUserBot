@@ -2,7 +2,7 @@ from bot import bot
 from telethon import events
 
 HELP_TEXT = '''
-🤖 UserBot için Kullanılabilir Komutlar:
+🤖 Froze UserBot için Kullanılabilir Komutlar:
 
 /ping - Botun tepki verip vermediğini kontrol eder
 /alive - Botun çalışıp çalışmadığını gösterir
